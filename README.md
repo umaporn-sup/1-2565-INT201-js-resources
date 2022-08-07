@@ -1,1 +1,42 @@
 # 1-2565-INT201-js-resources
+
+## Resources and Source Codes
+
+- _`Introduction to JavaScript`_
+  - [MDN Web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- _`Types, Values, and Variables`_
+  - [git repo]
+  - [MDN Web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_Types)
+- _`Expression, Operators, and Control Structures`_
+  - [git repo]
+  - [MDN Web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
+- _`Basic Arrays`_
+  - [git repo]
+  - [MDN Web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+- _`Basic Functions`_
+  - [git repo]
+  - [MDN Web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
+- _`Objects`_
+  - [git repo]
+  - [MDN Web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
+- _`Array Methods`_
+  - [git repo]
+  - [MDN Web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array#instance_methods)
+- _`Functions`_
+  - [git repo]
+  - [MDN Web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
+- _`JavaScript Modules`_
+  - [git repo]
+  - [MDN Web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
+- _`Document Object Model (DOM)`_
+  - [git repo]
+  - [MDN Web docs](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
+- _`Events`_
+  - [git repo]
+  - [MDN Web docs](https://developer.mozilla.org/en-US/docs/Web/API/Event)
+- _`Client Side Storages`_
+  - [git repo]
+  - [MDN Web docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage)
+- _`Asynchornous JavaScript`_
+  - [git repo]
+  - [MDN Web docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Introducing)
