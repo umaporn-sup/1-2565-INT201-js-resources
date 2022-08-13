@@ -3,6 +3,7 @@
 ## Resources and Source Codes
 
 - _`Introduction to JavaScript`_
+  - (week#1) [git repo](https://github.com/umaporn-sup/1-2565-INT201-intro-js.git)
   - [MDN Web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - _`Types, Values, and Variables`_
   - [git repo]
