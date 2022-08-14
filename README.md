@@ -6,7 +6,7 @@
   - (week#1) [git repo](https://github.com/umaporn-sup/1-2565-INT201-intro-js.git)
   - [MDN Web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - _`Types, Values, and Variables`_
-  - [git repo]
+  - (week#2) [git repo](https://github.com/umaporn-sup/1-2565-INT201-types-variables.git)
   - [MDN Web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_Types)
 - _`Expression, Operators, and Control Structures`_
   - [git repo]
