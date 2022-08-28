@@ -6,7 +6,7 @@
   - [git repo](https://github.com/umaporn-sup/1-2565-INT201-intro-js.git)
   - References
     - [JavaScript Overview](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- (week#2) _`Types, Values, and Variables`_
+- (week#2-3) _`Types, Values, and Variables`_
 
   - [git repo](https://github.com/umaporn-sup/1-2565-INT201-types-variables.git)
   - References
@@ -17,7 +17,7 @@
     - [Variable Scopes](https://www.w3schools.com/js/js_scope.asp)
     - [String](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
 
-- (week#3) _`Expression, Operators, and Control Structures`_
+- (week#4) _`Expression, Operators, and Control Structures`_
 
   - [git repo](https://github.com/umaporn-sup/1-2565-INT201-operators-ctrlstructures.git)
   - References
@@ -30,12 +30,16 @@
       - [for...in](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in)
       - [forEach](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
 
-- _`Basic Arrays`_
-  - [git repo]
-  - [MDN Web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
-- _`Basic Functions`_
-  - [git repo]
-  - [MDN Web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
+- (week#5) _`Basic Arrays and Functions`_
+  - _`Basic Arrays`_
+    - [git repo](https://github.com/umaporn-sup/1-2565-INT201-basic-arrays.git)
+    - References
+      - [Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+  - _`Basic Functions`_
+    - [git repo](https://github.com/umaporn-sup/1-2565-INT201-basic-functions.git)
+    - References
+      - [Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
+      - [Function expression](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/function)
 - _`Objects`_
   - [git repo]
   - [MDN Web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
