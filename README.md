@@ -40,9 +40,15 @@
     - References
       - [Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
       - [Function expression](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/function)
-- _`Objects`_
-  - [git repo]
-  - [MDN Web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
+- (week#6) _`Objects`_
+
+  - [git repo](https://github.com/umaporn-sup/1-2565-INT201-objects.git)
+  - References
+    - [objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
+    - [Spread in Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax#spread_in_object_literals)
+    - [Object Destructuring](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment#object_destructuring)
+    - [JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
+
 - _`Array Methods`_
   - [git repo]
   - [MDN Web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array#instance_methods)
