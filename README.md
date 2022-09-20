@@ -30,7 +30,7 @@
       - [for...in](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in)
       - [forEach](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
 
-- (week#5) _`Basic Arrays and Functions`_
+- (week#5-6) _`Basic Arrays and Functions`_
   - _`Basic Arrays`_
     - [git repo](https://github.com/umaporn-sup/1-2565-INT201-basic-arrays.git)
     - References
@@ -40,7 +40,7 @@
     - References
       - [Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
       - [Function expression](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/function)
-- (week#6) _`Objects`_
+- (week#7) _`Objects`_
 
   - [git repo](https://github.com/umaporn-sup/1-2565-INT201-objects.git)
   - References
@@ -70,3 +70,11 @@
 - _`Asynchornous JavaScript`_
   - [git repo]
   - [MDN Web docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Introducing)
+
+<hr/>
+
+## Practices Solution
+
+- [fillStartWord](https://github.com/umaporn-sup/1-2565-INT201-sol-fillStartWord.git)
+- [getBMIMeaning](https://github.com/umaporn-sup/1-2565-INT201-sol-bmi.git)
+- [minMedMax](https://github.com/umaporn-sup/1-2565-INT201-sol-minmedmax.git)
