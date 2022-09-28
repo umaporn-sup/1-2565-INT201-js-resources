@@ -78,3 +78,6 @@
 - [fillStartWord](https://github.com/umaporn-sup/1-2565-INT201-sol-fillStartWord.git)
 - [getBMIMeaning](https://github.com/umaporn-sup/1-2565-INT201-sol-bmi.git)
 - [minMedMax](https://github.com/umaporn-sup/1-2565-INT201-sol-minmedmax.git)
+- [concatArray](https://github.com/umaporn-sup/1-2565-INT201-sol-concatArray.git)
+- [getMaxLengthString](https://github.com/umaporn-sup/1-2565-INT201-sol-getMaxLengthString.git)
+- [totalPages](https://github.com/umaporn-sup/1-2565-INT201-sol-totalPages.git)
