@@ -44,17 +44,26 @@
 
   - [git repo](https://github.com/umaporn-sup/1-2565-INT201-objects.git)
   - References
-    - [objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
+    - [Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
     - [Spread in Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax#spread_in_object_literals)
     - [Object Destructuring](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment#object_destructuring)
     - [JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
 
+- (week#8) _`Working Functions`_
+  - [git repo](https://github.com/umaporn-sup/1-2565-INT201-working-functions.git)
+  - References
+    - [Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
+    - [Arrow Function Expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
+    - [Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
+    - [Arguments Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments)
+    - [Default Parameters](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters)
+    - [Rest Parameters](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters)
+    - [Destructuring Assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment#:~:text=The%20destructuring%20assignment%20syntax%20is,from%20objects%2C%20into%20distinct%20variables.)
 - _`Array Methods`_
+
   - [git repo]
   - [MDN Web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array#instance_methods)
-- _`Functions`_
-  - [git repo]
-  - [MDN Web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
+
 - _`JavaScript Modules`_
   - [git repo]
   - [MDN Web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
