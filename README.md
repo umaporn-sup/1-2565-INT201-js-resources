@@ -65,9 +65,14 @@
   - References
     - [Array Methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array#instance_methods)
 
-- _`JavaScript Modules`_
-  - [git repo]
-  - [MDN Web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
+- (week#10) _`JavaScript Modules`_
+
+  - [git repo](https://github.com/umaporn-sup/1-2565-INT201-js-modules.git)
+  - References
+    - [JavaScript Modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
+    - [import](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
+    - [export](https://developer.mozilla.org/en-US/docs/web/javascript/reference/statements/export)
+
 - _`Document Object Model (DOM)`_
   - [git repo]
   - [MDN Web docs](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
