@@ -73,9 +73,10 @@
     - [import](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
     - [export](https://developer.mozilla.org/en-US/docs/web/javascript/reference/statements/export)
 
-- _`Document Object Model (DOM)`_
-  - [git repo]
-  - [MDN Web docs](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
+- (week#11-12) _`Document Object Model (DOM)`_
+  - [git repo](https://github.com/umaporn-sup/1-2565-INT201-dom.git)
+  - Reference
+    - [Document Object Model](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 - _`Events`_
   - [git repo]
   - [MDN Web docs](https://developer.mozilla.org/en-US/docs/Web/API/Event)
