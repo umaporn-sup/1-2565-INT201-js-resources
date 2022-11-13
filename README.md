@@ -65,7 +65,7 @@
   - References
     - [Array Methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array#instance_methods)
 
-- (week#10) _`JavaScript Modules`_
+- (week#10-11) _`JavaScript Modules`_
 
   - [git repo](https://github.com/umaporn-sup/1-2565-INT201-js-modules.git)
   - References
@@ -73,13 +73,17 @@
     - [import](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
     - [export](https://developer.mozilla.org/en-US/docs/web/javascript/reference/statements/export)
 
-- (week#11-12) _`Document Object Model (DOM)`_
+- (week#12-13) _`Document Object Model (DOM)`_
   - [git repo](https://github.com/umaporn-sup/1-2565-INT201-dom.git)
   - Reference
     - [Document Object Model](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
-- _`Events`_
-  - [git repo]
-  - [MDN Web docs](https://developer.mozilla.org/en-US/docs/Web/API/Event)
+- (week#13-14) _`Events`_
+
+  - [git repo](https://github.com/umaporn-sup/1-2565-INT201-events.git)
+  - References
+    - [Introduction to events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
+    - [Event Interface](https://developer.mozilla.org/en-US/docs/Web/API/Event)
+
 - _`Client Side Storages`_
   - [git repo]
   - [MDN Web docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage)
