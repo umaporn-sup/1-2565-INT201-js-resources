@@ -84,9 +84,12 @@
     - [Introduction to events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
     - [Event Interface](https://developer.mozilla.org/en-US/docs/Web/API/Event)
 
-- _`Client Side Storages`_
-  - [git repo]
-  - [MDN Web docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage)
+- (week#15) _`Client Side Storages`_
+  - [git repo](https://github.com/umaporn-sup/1-2565-INT201-client-storages.git)
+  - References
+    - [Client Storages](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage)
+    - [Cookies](https://developer.mozilla.org/en-US/docs/Web/API/Document/cookie)
+    - [Web Storages](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API)
 - _`Asynchornous JavaScript`_
   - [git repo]
   - [MDN Web docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Introducing)
